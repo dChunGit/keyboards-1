@@ -1,7 +1,7 @@
 {
   "name": "Noxary 280",
   "vendorId": "0x4e58",
-  "productId": "0x0118",
+  "productId": "0x0AF1",
   "lighting": "qmk_backlight",
   "matrix": {"rows": 12, "cols": 9},
   "layouts": {
@@ -171,7 +171,7 @@
           "w": 1.25
         },
         "8,0\n\n\n2,1",
-        { "c": "#cccccc" },
+        {"c": "#cccccc"},
         "9,0\n\n\n2,1",
         {
           "x": 0.25,
